@@ -1,1 +1,1 @@
-Códigos realizados na disciplina de ELS200 - Introdução à Robótica Móvel no Curso de Engenharia de Robôs do Centro Universitário FEI. Nessa disciplina, construímos um Robô de Arduíno e realizamos algumas tarefas propostas pelo Professor.
+Codes developed in the course ELS200 – Introduction to Mobile Robotics, in the Robotics Engineering program at Centro Universitário FEI. In this course, we built an Arduino robot and carried out some tasks proposed by the professor..
