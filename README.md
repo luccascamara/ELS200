@@ -1,1 +1,1 @@
-Codígos realizados na disciplina de ELS200 - Introdução à Robótica Móvel no Curso de Engenharia de Robôs do Centro Universitário FEI. Nessa disciplina, construímos um Robô de Arduíno e realizamos algumas tarefas propostas pelo Professor.
+Códigos realizados na disciplina de ELS200 - Introdução à Robótica Móvel no Curso de Engenharia de Robôs do Centro Universitário FEI. Nessa disciplina, construímos um Robô de Arduíno e realizamos algumas tarefas propostas pelo Professor.
